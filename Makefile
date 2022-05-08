@@ -20,4 +20,4 @@ $(EXE) : $(OBJS)
 	$(CC) -o $@ $^
 
 clean:
-	rm -fr $(DIR) output
+	rm -fr $(DIR) output.txt temp

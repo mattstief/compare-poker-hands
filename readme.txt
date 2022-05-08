@@ -3,7 +3,7 @@ This program compares two poker hands and judges which one wins
 
 to compile:
 `make` or `g++ -o poker.exe *.cpp`
-make stores the output and exe files in build/ directory
+make stores the output and exe files in the build/ directory
 
 to test and run:
 `bash ./poker_test.sh` will run the program with all .txt files in the tests/ directory
