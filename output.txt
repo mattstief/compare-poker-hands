@@ -1,17 +1,0 @@
- tests/0_tie.txt vvvvvvvvvvvvvvvv AS AC 6H 6S AD AS AC 6H 6S AD It's a tie! ^^^^^^^^^^^^^^^^
- tests/1_4ofKind.txt vvvvvvvvvvvvvvvv AD AS AH AC 7C 6D 5D 4D 3D 2C Hand 1 wins! ^^^^^^^^^^^^^^^^
- tests/1_4ofKind2.txt vvvvvvvvvvvvvvvv 5C 5D 5H 5S 2D 6S 6H 6D KC KH Hand 1 wins! ^^^^^^^^^^^^^^^^
- tests/1_hiPair.txt vvvvvvvvvvvvvvvv KD QD 7S 5S 5H AD QD 7S 4S 4H Hand 1 wins! ^^^^^^^^^^^^^^^^
- tests/1_ranks2.txt vvvvvvvvvvvvvvvv AS AC AD 3H 3S KS KC KD 3H 3S Hand 1 wins! ^^^^^^^^^^^^^^^^
- tests/1_sRanks2.txt vvvvvvvvvvvvvvvv AS AC AD QH QS AS AC AD 4H 4S Hand 1 wins! ^^^^^^^^^^^^^^^^
- tests/1_strFlush.txt vvvvvvvvvvvvvvvv JC 10C 9C 8C 7C AD AC AS AH 2H Hand 1 wins! ^^^^^^^^^^^^^^^^
- tests/1_straightLoss.txt vvvvvvvvvvvvvvvv AD AS AH AC 7C 6D 5C 4H 3D 2D Hand 1 wins! ^^^^^^^^^^^^^^^^
- tests/1_straightLoss4.txt vvvvvvvvvvvvvvvv AD AS AH AC 7C 3D 2D 3H 5D 6D Hand 1 wins! ^^^^^^^^^^^^^^^^
- tests/2_hiRank.txt vvvvvvvvvvvvvvvv KD QD 7S 4S 9H AD QD 7S 5S 9H Hand 2 wins! ^^^^^^^^^^^^^^^^
- tests/2_hiRankPair.txt vvvvvvvvvvvvvvvv KD QD 7S 4S 4H AD QD 7S 4S 4H Hand 2 wins! ^^^^^^^^^^^^^^^^
- tests/2_pairRank.txt vvvvvvvvvvvvvvvv KC KD 3C 5H 8C KS KH 3C 6C 9H Hand 2 wins! ^^^^^^^^^^^^^^^^
- tests/2_ranks.txt vvvvvvvvvvvvvvvv JS JC JD 3H 3S KS KC KD 3H 3S Hand 2 wins! ^^^^^^^^^^^^^^^^
- tests/2_sRanks.txt vvvvvvvvvvvvvvvv AS AC AD 3H 3S AS AC AD 4H 4S Hand 2 wins! ^^^^^^^^^^^^^^^^
- tests/2_strFlush.txt vvvvvvvvvvvvvvvv AD AS AH AC 7C 6D 5D 4D 3D 2D Hand 2 wins! ^^^^^^^^^^^^^^^^
- tests/2_strFlush2.txt vvvvvvvvvvvvvvvv AD AS AH AC 7C 6D 5D 4D 3D 2D Hand 2 wins! ^^^^^^^^^^^^^^^^
- tests/2_straightWin.txt vvvvvvvvvvvvvvvv AD 2S AH AC 7C 5D 2D 4H 3D 6D Hand 2 wins! ^^^^^^^^^^^^^^^^
